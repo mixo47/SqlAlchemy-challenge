@@ -402,9 +402,18 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 57,
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "lowest temperature recorded of the most active station:54.0\n",
+      "highest temperature recorded of the most active station:85.0\n"
+     ]
+    }
+   ],
    "source": [
     "# Using the station id from the previous query, calculate the lowest temperature recorded, \n",
     "# highest temperature recorded, and average temperature of the most active station?\n",
